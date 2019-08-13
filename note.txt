@@ -1,0 +1,3 @@
+Adding before commiting always. cant do otherwise
+Adding is that staging area -- must go through it before committing
+used especially bec there are multiple files you want to commit in a batch 
